@@ -115,8 +115,9 @@ Pandas is a versatile tool for data manipulation, making it a must-have in any d
                                          
 ☎ For questions, feedback, or collaboration opportunities, feel free to reach out. Happy coding! 😊
 
+📌 Modify and experiment with the code to deepen your understanding.
+
 ⌚ By exploring this repository, you'll gain confidence in Python programming and unlock endless possibilities in the coding world. Let's code! 💻
 
-📌 Modify and experiment with the code to deepen your understanding.
 
 
